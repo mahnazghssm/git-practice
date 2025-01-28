@@ -1,13 +1,8 @@
 import numpy as np
 
 
-print("hello mahnaz")
+print("hello mahnaz and welcome to git ")
 
 
 
-print("hello")
 
-
-print("hi there")
-
-print("hi")
