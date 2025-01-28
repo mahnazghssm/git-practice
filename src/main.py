@@ -6,3 +6,6 @@ print("hello mahnaz")
 
 
 print("hello")
+
+
+print("hi there")
