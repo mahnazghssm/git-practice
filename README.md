@@ -7,14 +7,6 @@ mahnaz
 hi
 
 
-this is a git class 
 
-hi 
 
-hello 
-
-hi
-
-hiiiiiii
-
-hiiiiiiiiiiii
+hiiiii
